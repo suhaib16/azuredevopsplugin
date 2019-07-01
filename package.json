@@ -1,0 +1,33 @@
+{
+  "name": "hubot-azuredevopsplugin",
+  "description": "A hubot plugin that helps users to automate their work-flows.",
+  "version": "1.0.0",
+  "publishConfig": {
+    "tag": "latest"
+  },
+  "author": "Suhaib Shakeel",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-azuredevopsplugin",
+    "azuredevopsplugin"
+  ],
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suhaib16/azuredevopsplugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/suhaib16/azuredevopsplugin/issues"
+  },
+  "dependencies": {
+    "edge-js": "^11.0.0",
+    "edge-ps": "^0.1.0-pre",
+    "hubot-slack": "^4.7.1"
+  },
+  "peerDependencies": {
+    "hubot": ">=2 <10 || 0.0.0-development"
+  }
+}

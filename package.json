@@ -1,7 +1,7 @@
 {
   "name": "hubot-azuredevopsplugin",
   "description": "A hubot plugin that helps users to automate their work-flows.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "tag": "latest"
   },

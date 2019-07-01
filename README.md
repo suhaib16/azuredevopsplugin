@@ -44,7 +44,7 @@ This will run Hubot on Slack. Stop Hubot by pressing `Ctrl+C` in CMD.
 ----
 
 #### Installation of Azure DevOps Extension for Azure CLI:
-[This](https://github.com/Azure/azure-devops-cli-extension, "Azure DevOps Extension for Azure CLI") link will guide you how to install the Azure DevOps Extension for Azure CLI.
+[This](https://github.com/Azure/azure-devops-cli-extension "Azure DevOps Extension for Azure CLI") link will guide you how to install the Azure DevOps Extension for Azure CLI.
 
 ----
 
